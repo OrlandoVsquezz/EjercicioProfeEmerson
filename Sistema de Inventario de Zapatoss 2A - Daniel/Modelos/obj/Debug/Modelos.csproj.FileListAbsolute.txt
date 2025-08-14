@@ -1,0 +1,2 @@
+C:\Users\Estudiante\Desktop\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
