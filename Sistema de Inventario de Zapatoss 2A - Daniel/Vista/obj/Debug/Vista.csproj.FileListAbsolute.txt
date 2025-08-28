@@ -11,3 +11,16 @@ C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapat
 C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.csproj.Up2Date
 C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.exe
 C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.pdb
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\bin\Debug\Vista.exe.config
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\bin\Debug\Vista.exe
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\bin\Debug\Vista.pdb
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\bin\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.Formularios.frmMantenimientoZapatos.resources
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.csproj.Up2Date
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.exe
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Vista\obj\Debug\Vista.pdb

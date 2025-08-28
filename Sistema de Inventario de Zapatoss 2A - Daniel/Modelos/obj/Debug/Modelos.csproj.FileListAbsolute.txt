@@ -6,3 +6,9 @@ C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapat
 C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\bin\Debug\Modelos.pdb
 C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.dll
 C:\Users\Estudiante\Desktop\Sistema de inventario\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\bin\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.dll
+C:\Users\Estudiante\Desktop\EjercicioProfeEmerson\Sistema de Inventario de Zapatoss 2A - Daniel\Modelos\obj\Debug\Modelos.pdb
