@@ -83,6 +83,7 @@ namespace Modelos.Entidades
             }
             catch(Exception e)
             {
+                MessageBox.Show("Verificar si la consulta de eliminar esta correcta" + e, "Error al eliminar datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
         }

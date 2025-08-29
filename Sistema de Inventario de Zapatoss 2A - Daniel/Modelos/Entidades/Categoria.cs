@@ -20,8 +20,8 @@ namespace Modelos.Entidades
 
         public static DataTable cargarCategoria()
         {
-            SqlConnection conexion = ConexionDB.Conexion.Conectar();
-            string consultaQuery = "select ID, Nombre from Categorias";
+            SqlConnection conexion = Conexion.Conectar();
+            string consultaQuery = "select Id, Nombre from Categorias";
             SqlDataAdapter add = new SqlDataAdapter(consultaQuery, conexion);
             DataTable tablaCarga = new DataTable();
             add.Fill(tablaCarga);

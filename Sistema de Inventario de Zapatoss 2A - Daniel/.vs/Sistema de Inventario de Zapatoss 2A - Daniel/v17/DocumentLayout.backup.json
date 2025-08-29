@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\vista\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\vista\\usertcontrol\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\usertcontrol\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|c:\\users\\estudiante\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\modelos\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\vista\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\modelos\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\modelos\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\vista\\formularios\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\vista\\usertcontrol\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\usertcontrol\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\modelos\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexiondb\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\vista\\usertcontrol\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\usertcontrol\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\vista\\usertcontrol\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\usertcontrol\\frmregistrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0243301-2167-4D2A-933D-549B8F701142}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|c:\\users\\danie\\onedrive\\desktop\\ejercicioprofeemerson\\sistema de inventario de zapatoss 2a - daniel\\vista\\formularios\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480572DE-0C5D-4B13-B2D5-A04B16BA775F}|Vista\\Vista.csproj|solutionrelative:vista\\formularios\\frmprincipalregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Zapato.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\Entidades\\Zapato.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Zapato.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\Entidades\\Zapato.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Zapato.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:47:27.22Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\ConexionDB\\Conexion.cs",
-              "RelativeDocumentMoniker": "Modelos\\ConexionDB\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\ConexionDB\\Conexion.cs",
-              "RelativeToolTip": "Modelos\\ConexionDB\\Conexion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Title": "Zapato.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\Entidades\\Zapato.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Zapato.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\Entidades\\Zapato.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Zapato.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:39:56.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmMantenimientoZapatos.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmMantenimientoZapatos.cs",
-              "RelativeDocumentMoniker": "Vista\\Formularios\\frmMantenimientoZapatos.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmMantenimientoZapatos.cs",
-              "RelativeToolTip": "Vista\\Formularios\\frmMantenimientoZapatos.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAuwFUAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:19:15.616Z",
+              "WhenOpened": "2025-08-29T05:22:16.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Program.cs",
-              "RelativeDocumentMoniker": "Vista\\Program.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Program.cs",
-              "RelativeToolTip": "Vista\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\ConexionDB\\Conexion.cs",
+              "RelativeDocumentMoniker": "Modelos\\ConexionDB\\Conexion.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\ConexionDB\\Conexion.cs",
+              "RelativeToolTip": "Modelos\\ConexionDB\\Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:09:34.065Z"
+              "WhenOpened": "2025-08-29T05:13:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frnLogin.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frnLogin.cs",
+              "RelativeDocumentMoniker": "Vista\\UsertControl\\frnLogin.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frnLogin.cs",
+              "RelativeToolTip": "Vista\\UsertControl\\frnLogin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:44:43.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmRegistrarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frmRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Vista\\UsertControl\\frmRegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frmRegistrarUsuario.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Vista\\UsertControl\\frmRegistrarUsuario.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T21:23:21.986Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmMantenimientoZapatos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmMantenimientoZapatos.cs",
-              "RelativeDocumentMoniker": "Vista\\Formularios\\frmMantenimientoZapatos.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vista\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "Title": "frmRegistrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frmRegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Vista\\UsertControl\\frmRegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frmRegistrarUsuario.cs*",
+              "RelativeToolTip": "Vista\\UsertControl\\frmRegistrarUsuario.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAMwBsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T14:09:26.848Z",
+              "WhenOpened": "2025-08-29T04:31:56.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrincipalRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmPrincipalRegistro.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmPrincipalRegistro.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmPrincipalRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Formularios\\frmPrincipalRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:21:51.235Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frnLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frnLogin.cs",
+              "RelativeDocumentMoniker": "Vista\\UsertControl\\frnLogin.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\UsertControl\\frnLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\UsertControl\\frnLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T21:09:54.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Program.cs",
+              "RelativeDocumentMoniker": "Vista\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Program.cs",
+              "RelativeToolTip": "Vista\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:09:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:03:20.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPrincipalRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmPrincipalRegistro.cs",
+              "RelativeDocumentMoniker": "Vista\\Formularios\\frmPrincipalRegistro.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\EjercicioProfeEmerson\\Sistema de Inventario de Zapatoss 2A - Daniel\\Vista\\Formularios\\frmPrincipalRegistro.cs",
+              "RelativeToolTip": "Vista\\Formularios\\frmPrincipalRegistro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA+wCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:38:10.594Z",
+              "EditorCaption": ""
             }
           ]
         }
